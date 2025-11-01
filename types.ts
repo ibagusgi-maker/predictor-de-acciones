@@ -8,3 +8,4 @@ export interface Prediction {
   rationale: string;
   potential_risks: string;
 }
+
